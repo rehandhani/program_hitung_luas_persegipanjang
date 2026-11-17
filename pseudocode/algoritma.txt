@@ -13,16 +13,15 @@ Username GitHub :rehandhani
 
 B. JUDUL PROGRAM
 
-Tuliskan judul program yang akan dibuat.
+Program menghitung luas persegi panjang.
 
 C. DESKRIPSI MASALAH
 
-Jelaskan permasalahan yang ingin diselesaikan
-menggunakan program.
+Program ini dibuat untuk menghitung luas persegi panjang berdasarkan nilai panjang dan lebar yang dimasukkan oleh pengguna.
 
 D. TUJUAN PROGRAM
 
-Jelaskan tujuan dan manfaat program yang dibuat.
+Membantu pengguna menghitung luas persegi panjang cepat dan tepat.
 
 E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
